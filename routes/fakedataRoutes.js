@@ -1,5 +1,5 @@
 import express from "express";
-import { getFakeData } from "../controllers/fakedataController.js";
+import { getFakeData } from "../controllers/fakeDataController.js";
 
 const router = express.Router();
 
